@@ -1,4 +1,4 @@
-# Salesforce Spotlight
+# Salesforce Spotlight for Lightning
 
 Salesforce Spotlight is a powerful Chrome extension designed to enhance your productivity on the Salesforce Lightning platform. With its advanced search and navigation features, Salesforce Spotlight allows you to quickly locate and access a wide range of Salesforce resources, significantly improving your efficiency.
 
@@ -24,4 +24,4 @@ Salesforce Spotlight is a powerful Chrome extension designed to enhance your pro
 - **Keyboard Navigation**: Use the up and down arrow keys to navigate through the search results.
 - **Open Records**: Press the `Enter` key to open the selected record link.
 
-[Download Salesforce Spotlight now](https://chromewebstore.google.com/detail/salesforce-spotlight/kcnnhfdenihbihoikgjfapgphapdoggd){:target="_blank"} and experience a new level of convenience in your Salesforce operations!
+Download [Salesforce Spotlight](https://chromewebstore.google.com/detail/salesforce-spotlight/kcnnhfdenihbihoikgjfapgphapdoggd) now and experience a new level of convenience in your Salesforce operations!
